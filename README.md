@@ -12,8 +12,10 @@
 
 ### Download [➤ ASR-Clone-SSD-macOS-Catalina](https://github.com/chris1111/ASR-Clone-SSD-macOS-Catalina/releases/tag/V1)
 
-### Important to see this Note: The source disk must be equal to or smaller than that of the destination!
-### Important to see this Note: Always use lowercase letters to type disc numbers !!
+### Important to see this Note: 
++ The source disk must be equal to or smaller than that of the destination!
+### Important to see this Note: 
++ Always use lowercase letters to type disc numbers !!
 
 ## Follow every steps in the Video ⬇︎
 - Video is only in French (temporary)
