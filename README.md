@@ -12,8 +12,9 @@
 
 ### Download [➤ ASR-Clone-SSD-macOS-Catalina](https://github.com/chris1111/ASR-Clone-SSD-macOS-Catalina/releases/tag/V1)
 
-- Video is only in French (temporary)
+
 ## Follow every steps in the Video ⬇︎
+- Video is only in French (temporary)
 [![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://youtu.be/akqr37DubeQ)
 
 
