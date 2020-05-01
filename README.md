@@ -1,5 +1,8 @@
 # ASR-Clone-SSD-macOS-Catalina
 
+Credit: [Apple Software Restore](https://ss64.com/osx/asr.html)
+Credit: chris1111
+
 ![1](https://user-images.githubusercontent.com/6248794/76703396-d6f25a00-66a7-11ea-88c2-5d11e5c5b8b2.png)
 
 ![2](https://user-images.githubusercontent.com/6248794/76703397-d78af080-66a7-11ea-9277-c5e87b6fca03.png)
